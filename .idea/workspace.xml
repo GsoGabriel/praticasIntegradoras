@@ -1,23 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9c9bb4d-d580-4f96-afb9-d487d7436657" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/praticasIntegradoras.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2pratica1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2pratica1/Pessoa.java" afterDir="false" />
+    <list default="true" id="c9c9bb4d-d580-4f96-afb9-d487d7436657" name="Changes" comment="Adicionando pratica integradora do módulo 2 de java">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java2pratica2/exercicio1/PraticaExcecoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java2pratica2/exercicio2/Distribuidora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java2pratica2/exercicio2/entity/ItemVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java2pratica2/exercicio2/entity/NaoPereciveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java2pratica2/exercicio2/entity/Pereciveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java2pratica2/exercicio2/entity/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio1/Transacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio1/entity/Basico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio1/entity/Cobradores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio1/entity/Executivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio2/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio2/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio2/entity/Curriculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio2/entity/LivroPDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio2/entity/Relatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio3/AppAnimais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio3/Carnivoro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio3/Herbivoro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio3/entity/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio3/entity/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java3pratica1/exercicio3/entity/Vaca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FJdaBsGEBMRFvKLuseAqwbwlfq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,20 +56,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/gabsoliveira/Documents/aulaJava/praticasIntegradoras/src/java2pratica1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gabsoliveira/Documents/aulaJava/praticasIntegradoras/src/java2pratica1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java3pratica1.exercicio2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/java2pratica1" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java3pratica1.exercicio3.entity" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AppAnimais">
+    <configuration name="AppAnimais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java3pratica1.exercicio3.AppAnimais" />
+      <module name="praticasIntegradoras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java3pratica1.exercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Distribuidora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2pratica2.exercicio2.Distribuidora" />
+      <module name="praticasIntegradoras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2pratica2.exercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java2pratica1.Main" />
       <module name="praticasIntegradoras" />
@@ -52,8 +121,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PraticaExcecoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2pratica2.exercicio1.PraticaExcecoes" />
+      <module name="praticasIntegradoras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2pratica2.exercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java3pratica1.exercicio2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java3pratica1.exercicio2.Main" />
+      <module name="praticasIntegradoras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java3pratica1.exercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppAnimais" />
+        <item itemvalue="Application.java3pratica1.exercicio2.Main" />
+        <item itemvalue="Application.Distribuidora" />
+        <item itemvalue="Application.PraticaExcecoes" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -67,7 +166,17 @@
       <option name="presentableId" value="Default" />
       <updated>1664214184581</updated>
       <workItem from="1664214187396" duration="203000" />
+      <workItem from="1664214440787" duration="9063000" />
+      <workItem from="1664282807926" duration="4451000" />
     </task>
+    <task id="LOCAL-00001" summary="Adicionando pratica integradora do módulo 2 de java">
+      <created>1664214585582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664214585582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +192,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionando pratica integradora do módulo 2 de java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando pratica integradora do módulo 2 de java" />
   </component>
 </project>
